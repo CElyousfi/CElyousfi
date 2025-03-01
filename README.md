@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20AR%20Developer&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20Casa%20to%20the%20World%20🗽&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <p align="center">
@@ -18,16 +18,16 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=Self-challenging+AI+Engineer;Data+Science+Enthusiast;Machine+Learning+Researcher;Always+questioning+assumptions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=Self-challenging+AI+Engineer;Data+Science+Enthusiast;Machine+Learning+Researcher;Always+questioning+assumptions" />
 </div>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <h2>🧠 About Me</h2>
-      <p style="font-family: 'Press Start 2P', cursive;">
+      <p>
         I am a relentless perfectionist who thrives at the intersection of AI, data science, and mathematical rigor. My approach is defined by critical thinking and self-questioning — constantly challenging my own assumptions to achieve true innovation.
       </p>
       <p>
@@ -37,69 +37,67 @@
         My passion lies in creating AI systems that make complex information accessible and solve real-world problems with mathematical precision.
       </p>
     </td>
-    <td width="50%">
-      <img src="https://i.imgur.com/YmcRAe1.gif" width="100%">
+    <td width="50%" style="border: none;">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100%">
     </td>
   </tr>
 </table>
 
-<hr style="height:2px;border-width:0;color:#8A2BE2;background-color:#8A2BE2">
+<hr style="background-color: #8A2BE2; height: 2px; border: 0;">
 
-<h2 align="center">
-  <img src="https://fontmeme.com/permalink/240301/b4bc826b44cca02a7f4d58fe5a9d4597.png" alt="Core Expertise" border="0">
-</h2>
+<h2 align="center" style="color: #8A2BE2;">⚡ Core Expertise ⚡</h2>
 
 <div align="center">
-  <table bgcolor="#000000">
+  <table style="background-color: #000000; border: none;">
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
         <br><span style="color:#8A2BE2;">Python</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br><span style="color:#8A2BE2;">JavaScript</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
         <br><span style="color:#8A2BE2;">C++</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
         <br><span style="color:#8A2BE2;">C#</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
         <br><span style="color:#8A2BE2;">SQL</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
         <br><span style="color:#8A2BE2;">TensorFlow</span>
       </td>
     </tr>
     <tr>
       <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
         <br><span style="color:#8A2BE2;">PyTorch</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
         <br><span style="color:#8A2BE2;">Pandas</span>
       </td>
       <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
         <br><span style="color:#8A2BE2;">NumPy</span>
       </td>
       <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
         <br><span style="color:#8A2BE2;">Flask</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br><span style="color:#8A2BE2;">Linux</span>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" style="image-rendering: pixelated;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br><span style="color:#8A2BE2;">Docker</span>
       </td>
     </tr>
@@ -109,15 +107,15 @@
 <br>
 
 <details>
-  <summary><h2><img src="https://fontmeme.com/permalink/240301/c149d314136be8a84564d7ce9c50c867.png" alt="Flagship Projects" border="0"></h2></summary>
+  <summary><h2 style="display: inline-block; color: #8A2BE2;">🚀 Flagship Projects</h2></summary>
   <br>
   
-  <table>
+  <table style="border: none;">
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">SummaRise 🦊</h3>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center" style="color: #0077B5;">SummaRise 🦊</h3>
         <div align="center">
-          <img src="https://i.imgur.com/9xNLCiH.gif" width="100%" alt="8-bit fox with document"/>
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5fc779e53a352b9a8bdfe4270e.gif" width="100%" alt="SummaRise"/>
           <br>
           <p>
             <a href="https://github.com/CElyousfi/SummaRise" target="_blank">
@@ -130,10 +128,10 @@
           <p><strong>NLP, JavaScript, Machine Learning</strong> - A gamified browser extension with Finn the fox that analyzes and simplifies complex Terms of Service & Privacy Policies for user-friendly understanding.</p>
         </div>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Medical Decision Support System 🏥</h3>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center" style="color: #0077B5;">Medical Decision Support System 🏥</h3>
         <div align="center">
-          <img src="https://i.imgur.com/2Mkgfat.gif" width="100%" alt="8-bit medical app"/>
+          <img src="https://cdn.dribbble.com/users/1681442/screenshots/4735886/media/29246aa34fdeef51c8dc6eaeb7a69b2d.gif" width="100%" alt="Medical App"/>
           <br>
           <p>
             <a href="https://github.com/yourusername/med-decision" target="_blank">
@@ -148,10 +146,10 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Medical Document Analysis System 📝</h3>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center" style="color: #0077B5;">Medical Document Analysis System 📝</h3>
         <div align="center">
-          <img src="https://i.imgur.com/uUuOtUB.gif" width="100%" alt="8-bit document analysis"/>
+          <img src="https://cdn.dribbble.com/users/2514208/screenshots/9802960/media/153b271d393ac0ac47ea1dd90a06f6d5.gif" width="100%" alt="Document Analysis"/>
           <br>
           <p>
             <a href="https://github.com/yourusername/med-doc-analysis" target="_blank">
@@ -164,10 +162,10 @@
           <p><strong>OCR, FAISS, Python</strong> - Intelligent system that extracts, analyzes, and organizes medical document data through AI-driven document understanding.</p>
         </div>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">AI Financial Advisor 💰</h3>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center" style="color: #0077B5;">AI Financial Advisor 💰</h3>
         <div align="center">
-          <img src="https://i.imgur.com/8pDlera.gif" width="100%" alt="8-bit financial advisor"/>
+          <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/2860978e513e84b13ad26e05146635fe.gif" width="100%" alt="Financial Advisor"/>
           <br>
           <p>
             <a href="https://github.com/yourusername/financial-advisor" target="_blank">
@@ -185,7 +183,7 @@
 </details>
 
 <details>
-  <summary><h2><img src="https://fontmeme.com/permalink/240301/8e22df1ac5a6bfb972e15ab8fa3bde69.png" alt="Data & Stats" border="0"></h2></summary>
+  <summary><h2 style="display: inline-block; color: #8A2BE2;">📊 Data & Stats</h2></summary>
   <br>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=CharafYousfi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
@@ -195,56 +193,56 @@
   </div>
   <div align="center">
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharafYousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0000FF&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" alt="Charaf's Github Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharafYousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" alt="Charaf's Github Activity Graph" width="100%">
   </div>
 </details>
 
 <details>
-  <summary><h2><img src="https://fontmeme.com/permalink/240301/bf1d3c00d62a6b25e74ed3a4a3135ad8.png" alt="Development Journey" border="0"></h2></summary>
+  <summary><h2 style="display: inline-block; color: #8A2BE2;">🧰 Development Journey</h2></summary>
   <br>
   
   <div align="center">
-    <img src="https://i.imgur.com/6ZrjNNr.png" alt="8-bit Development Journey" style="image-rendering: pixelated;">
+    <img src="https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg" alt="Development Journey">
   </div>
   
-  <table style="border: 2px solid #8A2BE2; background-color: #000000; color: #FFFFFF;">
+  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
     <tr style="background-color: #8A2BE2;">
-      <th style="border: 2px solid #0000FF; padding: 10px;">Year</th>
-      <th style="border: 2px solid #0000FF; padding: 10px;">Achievements</th>
+      <th style="padding: 12px; text-align: left; color: white;">Year</th>
+      <th style="padding: 12px; text-align: left; color: white;">Achievements</th>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2025</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Expected Engineering Degree from EMSI, Casablanca</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2025</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Expected Engineering Degree from EMSI, Casablanca</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2024</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Oracle Database Administration I Certification</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Oracle Database Administration I Certification</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2024</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Internship at Ministry of Interior - Application Development</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Internship at Ministry of Interior - Application Development</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2024</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Marketing Analytics Specialization from Meta</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Marketing Analytics Specialization from Meta</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2023</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Internship at OMIADATA Group - Custom CRM/ERP Module</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2023</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Internship at OMIADATA Group - Custom CRM/ERP Module</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2023</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Python for Everybody Specialization from University of Michigan</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2023</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Python for Everybody Specialization from University of Michigan</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">2022</td>
-      <td style="border: 2px solid #8A2BE2; padding: 10px;">Started Engineering Degree at EMSI, Casablanca</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2022</td>
+      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Started Engineering Degree at EMSI, Casablanca</td>
     </tr>
   </table>
 </details>
 
 <details>
-  <summary><h2><img src="https://fontmeme.com/permalink/240301/7c8752f6af65b8d29e9c8d8622ac7ae5.png" alt="Medium Articles" border="0"></h2></summary>
+  <summary><h2 style="display: inline-block; color: #8A2BE2;">📝 Medium Articles</h2></summary>
   <br>
   <div align="center">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@charafelyousfi3/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@charafelyousfi3/0" alt="Recent Article 0"></a>
@@ -256,38 +254,38 @@
 <br>
 
 <div align="center">
-  <h2><img src="https://fontmeme.com/permalink/240301/6f0cc4b13ba15bf519309d03ab9994e1.png" alt="Coding Activity" border="0"></h2>
+  <h2 style="color: #8A2BE2;">💻 Coding Activity</h2>
   <br>
-  <img src="https://i.imgur.com/2V1VvGy.gif" width="70%" alt="8-bit coding animation">
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70%">
 </div>
 
 <br>
 
 <div align="center">
-  <h2><img src="https://fontmeme.com/permalink/240301/c2b9a9aa3b8fd8d7cd7c67e98fc0ab3d.png" alt="Key Metrics" border="0"></h2>
+  <h2 style="color: #8A2BE2;">🏆 Key Metrics</h2>
   <br>
 </div>
 
 <div align="center">
-  <table style="background-color: #000000; border: 3px solid #8A2BE2;">
+  <table style="background-color: #000000; border: none; border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/Dc65LLh.png" width="64" height="64" alt="8-bit projects icon"/>
+      <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2620/2620548.png" width="64" height="64" alt="projects icon"/>
         <h3 style="color: #8A2BE2;">+210</h3>
         <p>Total Projects</p>
       </td>
-      <td align="center">
-        <img src="https://i.imgur.com/cVhZO8y.png" width="64" height="64" alt="8-bit clients icon"/>
+      <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/1534/1534938.png" width="64" height="64" alt="clients icon"/>
         <h3 style="color: #8A2BE2;">+125</h3>
         <p>Clients Worldwide</p>
       </td>
-      <td align="center">
-        <img src="https://i.imgur.com/Yp7n7hM.png" width="64" height="64" alt="8-bit age icon"/>
+      <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/2316/2316433.png" width="64" height="64" alt="age icon"/>
         <h3 style="color: #8A2BE2;">24</h3>
         <p>Years Old</p>
       </td>
-      <td align="center">
-        <img src="https://i.imgur.com/JevDXkF.png" width="64" height="64" alt="8-bit code icon"/>
+      <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="64" height="64" alt="code icon"/>
         <h3 style="color: #8A2BE2;">500K+</h3>
         <p>Lines of Code</p>
       </td>
@@ -298,20 +296,20 @@
 <br>
 
 <div align="center">
-  <h2><img src="https://fontmeme.com/permalink/240301/74acf9e5a89a6a2e7cc82afa61c71dad.png" alt="Current Focus" border="0"></h2>
-  <div style="background-color: #000000; border: 2px solid #8A2BE2; padding: 15px; width: 80%; margin: 0 auto;">
-    <table align="center">
+  <h2 style="color: #8A2BE2;">🔮 Current Focus</h2>
+  <div style="background-color: #111111; border-radius: 10px; padding: 20px; width: 80%; margin: 0 auto;">
+    <table align="center" style="border: none;">
       <tr>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> Advanced Deep Learning Architectures</td>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> Generative AI & Large Language Models</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Advanced Deep Learning Architectures</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Generative AI & Large Language Models</td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> Computer Vision in Medical Applications</td>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> MLOps & Production ML Systems</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Computer Vision in Medical Applications</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> MLOps & Production ML Systems</td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> Reinforcement Learning</td>
-        <td style="padding: 10px;"><img src="https://i.imgur.com/IUjYy1O.png" width="20" height="20"> AI Ethics & Responsible AI</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Reinforcement Learning</td>
+        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> AI Ethics & Responsible AI</td>
       </tr>
     </table>
   </div>
@@ -320,7 +318,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/VTDx8Gw.gif" alt="8-bit quote" width="80%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
 <br>
@@ -332,6 +330,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CharafYousfi&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 </div>
-
-<!-- Custom JavaScript for visitors counter -->
-<img src="https://hit.yhype.me/github/profile?user_id=CharafYousfi" width="0" height="0">
