@@ -185,99 +185,38 @@
 <details>
   <summary><h2 style="display: inline-block; color: #8A2BE2;">📊 Data & Stats</h2></summary>
   <br>
+  
+  <!-- GitHub Stats Cards -->
   <div align="center">
-    <h2 style="color: #8A2BE2;">📊 Data & Stats</h2>
-    
-    <!-- GitHub Stats Cards -->
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
-      <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
-    </div>
-    
-    <!-- Custom Stats Display -->
-    <div style="margin-top: 20px; margin-bottom: 20px;">
-      <a href="https://github.com/CElyousfi">
-        <img alt="CElyousfi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CElyousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" width="98%">
-      </a>
-    </div>
-    
-    <!-- GitHub Trophies -->
-    <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=darkhub&no-frame=true&no-bg=true&column=7" width="98%" alt="Trophies">
-    </div>
-    
-    <!-- GitHub Stats Tiles -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
-      <!-- Languages -->
-      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);">
-        <h3 style="color: #8A2BE2; margin-top: 0;">💻 Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CElyousfi&layout=compact&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" width="100%" alt="Top Languages">
-      </div>
-      
-      <!-- Contribution Stats -->
-      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(0, 119, 181, 0.3);">
-        <h3 style="color: #0077B5; margin-top: 0;">📈 Contributions</h3>
-        <div style="margin: 10px 0;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Total:</span>
-            <span style="color: #8A2BE2; font-weight: bold;">500+</span>
-          </div>
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Last Year:</span>
-            <span style="color: #8A2BE2; font-weight: bold;">300+</span>
-          </div>
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Last Month:</span>
-            <span style="color: #8A2BE2; font-weight: bold;">50+</span>
-          </div>
-          <div style="height: 10px; background-color: #333333; border-radius: 5px; margin: 10px 0; overflow: hidden;">
-            <div style="height: 100%; width: 75%; background: linear-gradient(to right, #8A2BE2, #0077B5);"></div>
-          </div>
-        </div>
-      </div>
-      
-      <!-- Repository Stats -->
-      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);">
-        <h3 style="color: #8A2BE2; margin-top: 0;">📂 Repositories</h3>
-        <div style="margin: 10px 0;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Total:</span>
-            <span style="color: #0077B5; font-weight: bold;">20+</span>
-          </div>
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Starred:</span>
-            <span style="color: #0077B5; font-weight: bold;">15+</span>
-          </div>
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span>Forked:</span>
-            <span style="color: #0077B5; font-weight: bold;">10+</span>
-          </div>
-          <div style="height: 10px; background-color: #333333; border-radius: 5px; margin: 10px 0; overflow: hidden;">
-            <div style="height: 100%; width: 60%; background: linear-gradient(to right, #0077B5, #8A2BE2);"></div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
+  </div>
+  
+  <!-- Activity Graph -->
+  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    <a href="https://github.com/CElyousfi">
+      <img alt="CElyousfi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CElyousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" width="98%">
+    </a>
+  </div>
+  
+  <!-- Trophies -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=darkhub&no-frame=true&no-bg=true&column=7" width="98%" alt="Trophies">
+  </div>
+  
+  <!-- Top Languages -->
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CElyousfi&layout=compact&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" width="49%" alt="Top Languages">
   </div>
 </details>
 
-<details>
-  <summary><h2 style="display: inline-block; color: #8A2BE2;">🧰 Development Journey</h2></summary>
-  <br>
-  
-  <div align="center">
-    <h3 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=My+Tech+Journey+%F0%9F%9A%80" alt="My Tech Journey" />
-    </h3>
-    
-    <a href="https://github.com/CElyousfi">
-      <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake">
-    </a>
-    
-    <br>
-    
-<!-- TIMELINE START -->
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 15px;">
+<h2 align="center" style="color: #8A2BE2;">⏳ My Tech Journey</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake">
+</div>
+
+<table width="100%" align="center" style="margin-top: 20px; border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
       <h3 style="color: #8A2BE2; margin-top: 0;">2025 🚀</h3>
@@ -315,10 +254,6 @@
     </td>
   </tr>
 </table>
-<!-- TIMELINE END -->
-
-  </div>
-</details>
 
 <details>
   <summary><h2 style="display: inline-block; color: #8A2BE2;">📝 Medium Articles</h2></summary>
@@ -349,22 +284,18 @@
   <table style="background-color: #000000; border: none; border-collapse: separate; border-spacing: 15px;">
     <tr>
       <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2620/2620548.png" width="64" height="64" alt="projects icon"/>
         <h3 style="color: #8A2BE2;">+210</h3>
         <p>Total Projects</p>
       </td>
       <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/1534/1534938.png" width="64" height="64" alt="clients icon"/>
         <h3 style="color: #8A2BE2;">+125</h3>
         <p>Clients Worldwide</p>
       </td>
       <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2316/2316433.png" width="64" height="64" alt="age icon"/>
         <h3 style="color: #8A2BE2;">24</h3>
         <p>Years Old</p>
       </td>
       <td align="center" style="background-color: #111111; border-radius: 10px; padding: 20px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="64" height="64" alt="code icon"/>
         <h3 style="color: #8A2BE2;">500K+</h3>
         <p>Lines of Code</p>
       </td>
@@ -379,16 +310,16 @@
   <div style="background-color: #111111; border-radius: 10px; padding: 20px; width: 80%; margin: 0 auto;">
     <table align="center" style="border: none;">
       <tr>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Advanced Deep Learning Architectures</td>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Generative AI & Large Language Models</td>
+        <td style="padding: 10px;">Advanced Deep Learning Architectures</td>
+        <td style="padding: 10px;">Generative AI & Large Language Models</td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Computer Vision in Medical Applications</td>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> MLOps & Production ML Systems</td>
+        <td style="padding: 10px;">Computer Vision in Medical Applications</td>
+        <td style="padding: 10px;">MLOps & Production ML Systems</td>
       </tr>
       <tr>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> Reinforcement Learning</td>
-        <td style="padding: 10px;"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20"> AI Ethics & Responsible AI</td>
+        <td style="padding: 10px;">Reinforcement Learning</td>
+        <td style="padding: 10px;">AI Ethics & Responsible AI</td>
       </tr>
     </table>
   </div>
@@ -407,5 +338,8 @@
 </div>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=CElyousfi&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CElyousfi&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 </div>
+
+<!-- Visitor counter -->
+<img src="https://hit.yhype.me/github/profile?user_id=CElyousfi" width="0" height="0">
