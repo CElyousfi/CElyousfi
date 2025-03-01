@@ -202,50 +202,79 @@
   <br>
   
   <div align="center">
-    <img src="https://i.imgur.com/jMwkMmP.gif" alt="AI Plant" width="70%">
-    <h3>🌱 Growing My Skills Like an AI-Watered Plant 🌱</h3>
-    <p>I build IoT systems that connect nature with technology - just like my journey connects traditional engineering with cutting-edge AI</p>
-  </div>
-  
-  <div align="center" style="margin-top: 30px; background-color: #000000; border-radius: 10px; padding: 20px; box-shadow: 0 0 10px 0 #8A2BE2;">
-    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-      <div style="width: 50px; height: 50px; background-color: #8A2BE2; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
-        <span style="color: white; font-weight: bold;">2025</span>
-      </div>
-      <div style="flex-grow: 1; height: 5px; background: linear-gradient(90deg, #8A2BE2, #0077B5);"></div>
-      <div style="width: 50px; height: 50px; background-color: #8A2BE2; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: 10px;">
-        <span style="color: white; font-weight: bold;">2022</span>
-      </div>
-    </div>
+    <h3 style="color: #8A2BE2; font-size: 28px; margin-bottom: 10px;">🌱 Growing My Skills Like an AI-Watered Plant 🌱</h3>
+    <p style="font-style: italic; margin-bottom: 30px;">I build IoT systems that connect nature with technology - just like my journey connects traditional engineering with cutting-edge AI</p>
     
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2025</h4>
-        <p>Expected Engineering Degree from EMSI, Casablanca</p>
+    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+    
+    <div style="background: linear-gradient(to right, #000000, #8A2BE2, #0077B5, #000000); height: 3px; width: 100%; margin: 30px 0;"></div>
+    
+    <!-- Timeline Container -->
+    <div style="position: relative; max-width: 800px; margin: 0 auto;">
+      <!-- Timeline Line -->
+      <div style="position: absolute; width: 6px; background-color: #8A2BE2; top: 0; bottom: 0; left: 50%; margin-left: -3px;"></div>
+      
+      <!-- 2025 -->
+      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
+          <h3 style="color: #0077B5;">2025</h3>
+          <p>Expected Engineering Degree from EMSI, Casablanca</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2024</h4>
-        <p>Oracle Database Administration I Certification</p>
+      
+      <!-- 2024 - 1 -->
+      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
+          <h3 style="color: #8A2BE2;">2024</h3>
+          <p>Oracle Database Administration I Certification</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2024</h4>
-        <p>Internship at Ministry of Interior - Application Development</p>
+      
+      <!-- 2024 - 2 -->
+      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
+          <h3 style="color: #0077B5;">2024</h3>
+          <p>Internship at Ministry of Interior - Application Development</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2024</h4>
-        <p>Marketing Analytics Specialization from Meta</p>
+      
+      <!-- 2024 - 3 -->
+      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
+          <h3 style="color: #8A2BE2;">2024</h3>
+          <p>Marketing Analytics Specialization from Meta</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2023</h4>
-        <p>Internship at OMIADATA Group - Custom CRM/ERP Module</p>
+      
+      <!-- 2023 - 1 -->
+      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
+          <h3 style="color: #0077B5;">2023</h3>
+          <p>Internship at OMIADATA Group - Custom CRM/ERP Module</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2023</h4>
-        <p>Python for Everybody Specialization from University of Michigan</p>
+      
+      <!-- 2023 - 2 -->
+      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
+          <h3 style="color: #8A2BE2;">2023</h3>
+          <p>Python for Everybody Specialization from University of Michigan</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
-      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
-        <h4 style="color: #0077B5;">2022</h4>
-        <p>Started Engineering Degree at EMSI, Casablanca</p>
+      
+      <!-- 2022 -->
+      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
+        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
+          <h3 style="color: #0077B5;">2022</h3>
+          <p>Started Engineering Degree at EMSI, Casablanca</p>
+        </div>
+        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
       </div>
     </div>
   </div>
