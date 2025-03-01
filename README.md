@@ -118,7 +118,7 @@
           <img src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Assets/Monkey_Kid_Coding.gif" width="100%" alt="SummaRise"/>
           <br>
           <p>
-            <a href="https://github.com/yourusername/summarise" target="_blank">
+            <a href="https://github.com/CElyousfi/SummaRise" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>  
             <a href="#" target="_blank">
@@ -301,7 +301,7 @@
         <p>Years Old</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/nolan/64/source-code.png"/>
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-code-file-document-with-programming-script-coding-development-file-text-color-tal-revivo.png"/>
         <h3>500K+</h3>
         <p>Lines of Code</p>
       </td>
