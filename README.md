@@ -115,27 +115,103 @@
 </table>
 
 <!-- GITHUB STATS SECTION -->
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Universe</h2>
 
 <div align="center">
-  <a href="https://github.com/CElyousfi">
-    <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/CElyousfi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41cc-b3ea-534a3a4cbbd5.gif" width="400" />
+</div>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
+        <h3>Stars Earned</h3>
+        <h2 style="color: #8A2BE2">⭐ 100+ ⭐</h2>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-80e9a460bb62.png" width="100" />
+        <h3>Total Commits</h3>
+        <h2 style="color: #8A2BE2">🔥 1,200+ 🔥</h2>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216124689-e1b5b4ae-e3cb-4014-bfa3-233b95811c32.png" width="100" />
+        <h3>Contributions</h3>
+        <h2 style="color: #8A2BE2">🚀 500+ 🚀</h2>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/CElyousfi">
-    <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=radical&no-frame=true&no-bg=true&column=7&row=1&margin-w=15" width="100%" alt="Trophy" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <!-- Commit Activity Card -->
+        <div style="background-color: #0D1117; border-radius: 10px; padding: 20px; margin: 10px; text-align: center; border: 1px solid #8A2BE2;">
+          <h3 style="color: #8A2BE2;">Commit Activity</h3>
+          <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100" />
+          <div style="margin-top: 10px;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>Monday</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 85%; background-color: #8A2BE2; border-radius: 5px;"></div>
+              </div>
+              <span>85%</span>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>Tuesday</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 65%; background-color: #8A2BE2; border-radius: 5px;"></div>
+              </div>
+              <span>65%</span>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>Weekend</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 95%; background-color: #8A2BE2; border-radius: 5px;"></div>
+              </div>
+              <span>95%</span>
+            </div>
+          </div>
+        </div>
+      </td>
+      <td>
+        <!-- Language Distribution Card -->
+        <div style="background-color: #0D1117; border-radius: 10px; padding: 20px; margin: 10px; text-align: center; border: 1px solid #0077B5;">
+          <h3 style="color: #0077B5;">Language Distribution</h3>
+          <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100" />
+          <div style="margin-top: 10px;">
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>Python</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 70%; background-color: #0077B5; border-radius: 5px;"></div>
+              </div>
+              <span>70%</span>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>JavaScript</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 20%; background-color: #0077B5; border-radius: 5px;"></div>
+              </div>
+              <span>20%</span>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: space-between; margin: 5px 0;">
+              <span>Other</span>
+              <div style="width: 100px; height: 10px; background-color: #333; border-radius: 5px; margin: 0 10px; position: relative;">
+                <div style="position: absolute; top: 0; left: 0; height: 100%; width: 10%; background-color: #0077B5; border-radius: 5px;"></div>
+              </div>
+              <span>10%</span>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- CONTRIBUTIONS SNAKE ANIMATION -->
 <div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Contributions</h2>
-  <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
@@ -146,52 +222,70 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
 </div>
 
+<br>
+
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <h3>2025 🚀</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" />
-        <p>Expected Engineering Degree<br>EMSI, Casablanca</p>
-      </td>
-      <td align="center">
-        <h3>2024 🏆</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
-        <p>Oracle Database Administration I<br>Certification</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>2024 💻</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/216125640-2786f346-fa5a-401e-b28b-57f1aded57a9.png" width="100" />
-        <p>Internship at Ministry of Interior<br>Application Development</p>
-      </td>
-      <td align="center">
-        <h3>2024 📊</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/214375888-0ebbf36d-b8c7-46ec-bb79-657b6874731a.gif" width="100" />
-        <p>Marketing Analytics Specialization<br>from Meta</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>2023 🖥️</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/213910508-cf22184f-180a-42ae-a168-8c6bd20b68ec.gif" width="100" />
-        <p>Internship at OMIADATA Group<br>Custom CRM/ERP Module</p>
-      </td>
-      <td align="center">
-        <h3>2023 🐍</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" />
-        <p>Python for Everybody Specialization<br>University of Michigan</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>2022 🎓</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-92eb-4c9c-b60b-79233fb8b5e6.gif" width="100" />
-        <p>Started Engineering Degree at EMSI, Casablanca</p>
-      </td>
-    </tr>
-  </table>
+  <!-- Timeline Container -->
+  <div style="position: relative; margin: 0 auto; max-width: 900px; padding: 20px 0;">
+    <!-- Timeline Center Line -->
+    <div style="position: absolute; height: 100%; width: 4px; background: linear-gradient(to bottom, #8A2BE2, #0077B5); left: 50%; margin-left: -2px; top: 0;"></div>
+    
+    <!-- 2025 Entry -->
+    <div style="position: relative; width: 45%; margin-left: auto; margin-right: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-left: 4px solid #8A2BE2;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #8A2BE2; top: 20px; left: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #8A2BE2;"></div>
+      <h3 style="color: #8A2BE2; margin-top: 0;">2025 🚀</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="float: right; margin-left: 15px;" />
+      <p style="margin-bottom: 0;">Expected Engineering Degree<br>EMSI, Casablanca</p>
+    </div>
+    
+    <!-- 2024 Entry 1 -->
+    <div style="position: relative; width: 45%; margin-right: auto; margin-left: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-right: 4px solid #0077B5;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #0077B5; top: 20px; right: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #0077B5;"></div>
+      <h3 style="color: #0077B5; margin-top: 0;">2024 🏆</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" style="float: left; margin-right: 15px;" />
+      <p style="margin-bottom: 0;">Oracle Database Administration I<br>Certification</p>
+    </div>
+    
+    <!-- 2024 Entry 2 -->
+    <div style="position: relative; width: 45%; margin-left: auto; margin-right: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-left: 4px solid #8A2BE2;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #8A2BE2; top: 20px; left: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #8A2BE2;"></div>
+      <h3 style="color: #8A2BE2; margin-top: 0;">2024 💻</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/216125640-2786f346-fa5a-401e-b28b-57f1aded57a9.png" width="100" style="float: right; margin-left: 15px;" />
+      <p style="margin-bottom: 0;">Internship at Ministry of Interior<br>Application Development</p>
+    </div>
+    
+    <!-- 2024 Entry 3 -->
+    <div style="position: relative; width: 45%; margin-right: auto; margin-left: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-right: 4px solid #0077B5;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #0077B5; top: 20px; right: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #0077B5;"></div>
+      <h3 style="color: #0077B5; margin-top: 0;">2024 📊</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/214375888-0ebbf36d-b8c7-46ec-bb79-657b6874731a.gif" width="100" style="float: left; margin-right: 15px;" />
+      <p style="margin-bottom: 0;">Marketing Analytics Specialization<br>from Meta</p>
+    </div>
+    
+    <!-- 2023 Entry 1 -->
+    <div style="position: relative; width: 45%; margin-left: auto; margin-right: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-left: 4px solid #8A2BE2;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #8A2BE2; top: 20px; left: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #8A2BE2;"></div>
+      <h3 style="color: #8A2BE2; margin-top: 0;">2023 🖥️</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/213910508-cf22184f-180a-42ae-a168-8c6bd20b68ec.gif" width="100" style="float: right; margin-left: 15px;" />
+      <p style="margin-bottom: 0;">Internship at OMIADATA Group<br>Custom CRM/ERP Module</p>
+    </div>
+    
+    <!-- 2023 Entry 2 -->
+    <div style="position: relative; width: 45%; margin-right: auto; margin-left: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-right: 4px solid #0077B5;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #0077B5; top: 20px; right: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #0077B5;"></div>
+      <h3 style="color: #0077B5; margin-top: 0;">2023 🐍</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" style="float: left; margin-right: 15px;" />
+      <p style="margin-bottom: 0;">Python for Everybody Specialization<br>University of Michigan</p>
+    </div>
+    
+    <!-- 2022 Entry -->
+    <div style="position: relative; width: 45%; margin-left: auto; margin-right: 0; padding: 20px; background-color: #0D1117; border-radius: 10px; margin-bottom: 30px; border-left: 4px solid #8A2BE2;">
+      <div style="position: absolute; width: 30px; height: 30px; background-color: #8A2BE2; top: 20px; left: -47px; border-radius: 50%; z-index: 1; box-shadow: 0 0 10px #8A2BE2;"></div>
+      <h3 style="color: #8A2BE2; margin-top: 0;">2022 🎓</h3>
+      <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-92eb-4c9c-b60b-79233fb8b5e6.gif" width="100" style="float: right; margin-left: 15px;" />
+      <p style="margin-bottom: 0;">Started Engineering Degree at EMSI, Casablanca</p>
+    </div>
+  </div>
 </div>
 
 <!-- KEY METRICS SECTION -->
