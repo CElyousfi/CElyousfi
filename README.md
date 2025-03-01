@@ -186,14 +186,14 @@
   <summary><h2 style="display: inline-block; color: #8A2BE2;">📊 Data & Stats</h2></summary>
   <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=CharafYousfi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharafYousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=CharafYousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
   </div>
   <div align="center">
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharafYousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" alt="Charaf's Github Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CElyousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" alt="Charaf's Github Activity Graph" width="100%">
   </div>
 </details>
 
@@ -202,43 +202,53 @@
   <br>
   
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg" alt="Development Journey">
+    <img src="https://i.imgur.com/jMwkMmP.gif" alt="AI Plant" width="70%">
+    <h3>🌱 Growing My Skills Like an AI-Watered Plant 🌱</h3>
+    <p>I build IoT systems that connect nature with technology - just like my journey connects traditional engineering with cutting-edge AI</p>
   </div>
   
-  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-    <tr style="background-color: #8A2BE2;">
-      <th style="padding: 12px; text-align: left; color: white;">Year</th>
-      <th style="padding: 12px; text-align: left; color: white;">Achievements</th>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2025</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Expected Engineering Degree from EMSI, Casablanca</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Oracle Database Administration I Certification</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Internship at Ministry of Interior - Application Development</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2024</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Marketing Analytics Specialization from Meta</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2023</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Internship at OMIADATA Group - Custom CRM/ERP Module</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2023</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Python for Everybody Specialization from University of Michigan</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">2022</td>
-      <td style="padding: 12px; border-bottom: 1px solid #8A2BE2;">Started Engineering Degree at EMSI, Casablanca</td>
-    </tr>
-  </table>
+  <div align="center" style="margin-top: 30px; background-color: #000000; border-radius: 10px; padding: 20px; box-shadow: 0 0 10px 0 #8A2BE2;">
+    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+      <div style="width: 50px; height: 50px; background-color: #8A2BE2; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
+        <span style="color: white; font-weight: bold;">2025</span>
+      </div>
+      <div style="flex-grow: 1; height: 5px; background: linear-gradient(90deg, #8A2BE2, #0077B5);"></div>
+      <div style="width: 50px; height: 50px; background-color: #8A2BE2; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: 10px;">
+        <span style="color: white; font-weight: bold;">2022</span>
+      </div>
+    </div>
+    
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2025</h4>
+        <p>Expected Engineering Degree from EMSI, Casablanca</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2024</h4>
+        <p>Oracle Database Administration I Certification</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2024</h4>
+        <p>Internship at Ministry of Interior - Application Development</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2024</h4>
+        <p>Marketing Analytics Specialization from Meta</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2023</h4>
+        <p>Internship at OMIADATA Group - Custom CRM/ERP Module</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2023</h4>
+        <p>Python for Everybody Specialization from University of Michigan</p>
+      </div>
+      <div style="width: 200px; padding: 15px; margin: 10px; background-color: #111111; border-radius: 10px; border-left: 5px solid #8A2BE2;">
+        <h4 style="color: #0077B5;">2022</h4>
+        <p>Started Engineering Degree at EMSI, Casablanca</p>
+      </div>
+    </div>
+  </div>
 </details>
 
 <details>
@@ -328,5 +338,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CharafYousfi&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=CElyousfi&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 </div>
