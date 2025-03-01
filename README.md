@@ -186,14 +186,78 @@
   <summary><h2 style="display: inline-block; color: #8A2BE2;">📊 Data & Stats</h2></summary>
   <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
-  </div>
-  <div align="center">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CElyousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" alt="Charaf's Github Activity Graph" width="100%">
+    <h2 style="color: #8A2BE2;">📊 Data & Stats</h2>
+    
+    <!-- GitHub Stats Cards -->
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=midnight-purple&hide_border=true&background=000000" width="49%" alt="streaks graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000" width="49%" alt="stats graph" />
+    </div>
+    
+    <!-- Custom Stats Display -->
+    <div style="margin-top: 20px; margin-bottom: 20px;">
+      <a href="https://github.com/CElyousfi">
+        <img alt="CElyousfi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CElyousfi&custom_title=Charaf%20El%20Yousfi's%20GitHub%20Activity%20Graph&bg_color=000000&color=8A2BE2&line=0077B5&point=8A2BE2&area_color=8A2BE2&title_color=8A2BE2&area=true" width="98%">
+      </a>
+    </div>
+    
+    <!-- GitHub Trophies -->
+    <div>
+      <img src="https://github-profile-trophy.vercel.app/?username=CElyousfi&theme=darkhub&no-frame=true&no-bg=true&column=7" width="98%" alt="Trophies">
+    </div>
+    
+    <!-- GitHub Stats Tiles -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+      <!-- Languages -->
+      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);">
+        <h3 style="color: #8A2BE2; margin-top: 0;">💻 Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CElyousfi&layout=compact&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" width="100%" alt="Top Languages">
+      </div>
+      
+      <!-- Contribution Stats -->
+      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(0, 119, 181, 0.3);">
+        <h3 style="color: #0077B5; margin-top: 0;">📈 Contributions</h3>
+        <div style="margin: 10px 0;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Total:</span>
+            <span style="color: #8A2BE2; font-weight: bold;">500+</span>
+          </div>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Last Year:</span>
+            <span style="color: #8A2BE2; font-weight: bold;">300+</span>
+          </div>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Last Month:</span>
+            <span style="color: #8A2BE2; font-weight: bold;">50+</span>
+          </div>
+          <div style="height: 10px; background-color: #333333; border-radius: 5px; margin: 10px 0; overflow: hidden;">
+            <div style="height: 100%; width: 75%; background: linear-gradient(to right, #8A2BE2, #0077B5);"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Repository Stats -->
+      <div style="background-color: #111111; border-radius: 10px; padding: 15px; width: 220px; text-align: center; box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);">
+        <h3 style="color: #8A2BE2; margin-top: 0;">📂 Repositories</h3>
+        <div style="margin: 10px 0;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Total:</span>
+            <span style="color: #0077B5; font-weight: bold;">20+</span>
+          </div>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Starred:</span>
+            <span style="color: #0077B5; font-weight: bold;">15+</span>
+          </div>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span>Forked:</span>
+            <span style="color: #0077B5; font-weight: bold;">10+</span>
+          </div>
+          <div style="height: 10px; background-color: #333333; border-radius: 5px; margin: 10px 0; overflow: hidden;">
+            <div style="height: 100%; width: 60%; background: linear-gradient(to right, #0077B5, #8A2BE2);"></div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </details>
 
@@ -213,69 +277,41 @@
     <br>
     
 <!-- TIMELINE START -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="50">
-      <h3 align="center">2025</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2025-degree-card.svg" alt="Engineering Degree">
-      </a>
-      <p align="center">Expected Engineering Degree from EMSI, Casablanca</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
+      <h3 style="color: #8A2BE2; margin-top: 0;">2025 🚀</h3>
+      <p>Expected Engineering Degree from EMSI, Casablanca</p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/certificate_1f4dc.gif" width="50">
-      <h3 align="center">2024</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-oracle-card.svg" alt="Oracle Certification">
-      </a>
-      <p align="center">Oracle Database Administration I Certification</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #0077B5;">
+      <h3 style="color: #0077B5; margin-top: 0;">2024 🏆</h3>
+      <p>Oracle Database Administration I Certification</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/laptop_1f4bb.gif" width="50">
-      <h3 align="center">2024</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-ministry-card.svg" alt="Internship">
-      </a>
-      <p align="center">Internship at Ministry of Interior - Application Development</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
+      <h3 style="color: #8A2BE2; margin-top: 0;">2024 💻</h3>
+      <p>Internship at Ministry of Interior - Application Development</p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="50">
-      <h3 align="center">2024</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-meta-card.svg" alt="Meta Analytics">
-      </a>
-      <p align="center">Marketing Analytics Specialization from Meta</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #0077B5;">
+      <h3 style="color: #0077B5; margin-top: 0;">2024 📊</h3>
+      <p>Marketing Analytics Specialization from Meta</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/desktop-computer_1f5a5-fe0f.gif" width="50">
-      <h3 align="center">2023</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2023-omiadata-card.svg" alt="OMIADATA">
-      </a>
-      <p align="center">Internship at OMIADATA Group - Custom CRM/ERP Module</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
+      <h3 style="color: #8A2BE2; margin-top: 0;">2023 🖥️</h3>
+      <p>Internship at OMIADATA Group - Custom CRM/ERP Module</p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="50">
-      <h3 align="center">2023</h3>
-      <a href="#">
-        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2023-python-card.svg" alt="Python">
-      </a>
-      <p align="center">Python for Everybody Specialization from University of Michigan</p>
+    <td width="50%" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-left: 4px solid #0077B5;">
+      <h3 style="color: #0077B5; margin-top: 0;">2023 🐍</h3>
+      <p>Python for Everybody Specialization from University of Michigan</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/graduation-cap_1f393.gif" width="50">
-      <h3 align="center">2022</h3>
-      <a href="#">
-        <img width="50%" src="https://gist.githubusercontent.com/CElyousfi/raw/2022-starting-card.svg" alt="EMSI">
-      </a>
-      <p align="center">Started Engineering Degree at EMSI, Casablanca</p>
+    <td colspan="2" align="center" style="background-color: #111111; border-radius: 15px; padding: 20px; border-bottom: 4px solid #8A2BE2;">
+      <h3 style="color: #8A2BE2; margin-top: 0;">2022 🎓</h3>
+      <p>Started Engineering Degree at EMSI, Casablanca</p>
     </td>
   </tr>
 </table>
