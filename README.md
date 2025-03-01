@@ -102,22 +102,69 @@
   </tr>
 </table>
 
-<!-- GITHUB STATS SECTION -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- CODING METRICS SECTION -->
+<h2 align="center">💻 Coding & Analytics</h2>
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=CElyousfi&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Charaf's GitHub Stats" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=radical&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CElyousfi&theme=radical&hide_border=true" width="48%" alt="Charaf's GitHub Streak" />
-  </a>
+  <table border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
+        <h3 style="color: #8A2BE2;">AI Workload</h3>
+        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">70%</div>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Python | TensorFlow | PyTorch</p>
+        <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
+          <div style="height: 100%; width: 70%; background-color: #8A2BE2; border-radius: 5px;"></div>
+        </div>
+      </td>
+      <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #0077B5;">
+        <h3 style="color: #0077B5;">Web Development</h3>
+        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">20%</div>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">JavaScript | React | Flask</p>
+        <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
+          <div style="height: 100%; width: 20%; background-color: #0077B5; border-radius: 5px;"></div>
+        </div>
+      </td>
+      <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
+        <h3 style="color: #8A2BE2;">DevOps & Others</h3>
+        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">10%</div>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Docker | SQL | C#</p>
+        <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
+          <div style="height: 100%; width: 10%; background-color: #8A2BE2; border-radius: 5px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<h3 align="center" style="margin-top: 30px; color: #8A2BE2;">Key Development Metrics</h3>
+
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CElyousfi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CElyousfi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" alt="Charaf's Top Languages" />
-  </a>
+  <table border="0" cellspacing="10" cellpadding="0" style="width: 80%;">
+    <tr>
+      <td align="right" width="40%" style="padding: 10px;"><strong>Most Productive Time:</strong></td>
+      <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
+        <span style="color: #8A2BE2;">Night Owl 🦉</span> - 9PM to 2AM
+      </td>
+    </tr>
+    <tr>
+      <td align="right" width="40%" style="padding: 10px;"><strong>Favorite IDE:</strong></td>
+      <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
+        <span style="color: #0077B5;">VS Code</span> with AI-enhanced plugins
+      </td>
+    </tr>
+    <tr>
+      <td align="right" width="40%" style="padding: 10px;"><strong>Code Quality Focus:</strong></td>
+      <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
+        <span style="color: #8A2BE2;">Performance Optimization</span> & Clean Architecture
+      </td>
+    </tr>
+    <tr>
+      <td align="right" width="40%" style="padding: 10px;"><strong>Learning Right Now:</strong></td>
+      <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
+        <span style="color: #0077B5;">Large Language Models</span> & Neural Radiance Fields
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- TECH JOURNEY SECTION -->
