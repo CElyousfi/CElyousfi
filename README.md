@@ -202,81 +202,85 @@
   <br>
   
   <div align="center">
-    <h3 style="color: #8A2BE2; font-size: 28px; margin-bottom: 10px;">🌱 Growing My Skills Like an AI-Watered Plant 🌱</h3>
-    <p style="font-style: italic; margin-bottom: 30px;">I build IoT systems that connect nature with technology - just like my journey connects traditional engineering with cutting-edge AI</p>
+    <h3 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=My+Tech+Journey+%F0%9F%9A%80" alt="My Tech Journey" />
+    </h3>
     
-    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+    <a href="https://github.com/CElyousfi">
+      <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake">
+    </a>
     
-    <div style="background: linear-gradient(to right, #000000, #8A2BE2, #0077B5, #000000); height: 3px; width: 100%; margin: 30px 0;"></div>
+    <br>
     
-    <!-- Timeline Container -->
-    <div style="position: relative; max-width: 800px; margin: 0 auto;">
-      <!-- Timeline Line -->
-      <div style="position: absolute; width: 6px; background-color: #8A2BE2; top: 0; bottom: 0; left: 50%; margin-left: -3px;"></div>
-      
-      <!-- 2025 -->
-      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
-          <h3 style="color: #0077B5;">2025</h3>
-          <p>Expected Engineering Degree from EMSI, Casablanca</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2024 - 1 -->
-      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
-          <h3 style="color: #8A2BE2;">2024</h3>
-          <p>Oracle Database Administration I Certification</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2024 - 2 -->
-      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
-          <h3 style="color: #0077B5;">2024</h3>
-          <p>Internship at Ministry of Interior - Application Development</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2024 - 3 -->
-      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
-          <h3 style="color: #8A2BE2;">2024</h3>
-          <p>Marketing Analytics Specialization from Meta</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2023 - 1 -->
-      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
-          <h3 style="color: #0077B5;">2023</h3>
-          <p>Internship at OMIADATA Group - Custom CRM/ERP Module</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2023 - 2 -->
-      <div style="position: relative; width: 50%; padding-left: 50px; left: 50%; text-align: left; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-left: 5px solid #0077B5; box-shadow: 0 0 15px rgba(0, 119, 181, 0.3);">
-          <h3 style="color: #8A2BE2;">2023</h3>
-          <p>Python for Everybody Specialization from University of Michigan</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; left: -12px; background-color: #0077B5; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-      
-      <!-- 2022 -->
-      <div style="position: relative; width: 50%; padding-right: 50px; left: 0; text-align: right; margin: 40px 0;">
-        <div style="padding: 20px; background-color: #111111; border-radius: 10px; border-right: 5px solid #8A2BE2; box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);">
-          <h3 style="color: #0077B5;">2022</h3>
-          <p>Started Engineering Degree at EMSI, Casablanca</p>
-        </div>
-        <div style="position: absolute; width: 25px; height: 25px; right: -12px; background-color: #8A2BE2; border: 4px solid #000000; top: 15px; border-radius: 50%; z-index: 1;"></div>
-      </div>
-    </div>
+<!-- TIMELINE START -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="50">
+      <h3 align="center">2025</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2025-degree-card.svg" alt="Engineering Degree">
+      </a>
+      <p align="center">Expected Engineering Degree from EMSI, Casablanca</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/certificate_1f4dc.gif" width="50">
+      <h3 align="center">2024</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-oracle-card.svg" alt="Oracle Certification">
+      </a>
+      <p align="center">Oracle Database Administration I Certification</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/laptop_1f4bb.gif" width="50">
+      <h3 align="center">2024</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-ministry-card.svg" alt="Internship">
+      </a>
+      <p align="center">Internship at Ministry of Interior - Application Development</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="50">
+      <h3 align="center">2024</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2024-meta-card.svg" alt="Meta Analytics">
+      </a>
+      <p align="center">Marketing Analytics Specialization from Meta</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/desktop-computer_1f5a5-fe0f.gif" width="50">
+      <h3 align="center">2023</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2023-omiadata-card.svg" alt="OMIADATA">
+      </a>
+      <p align="center">Internship at OMIADATA Group - Custom CRM/ERP Module</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="50">
+      <h3 align="center">2023</h3>
+      <a href="#">
+        <img width="100%" src="https://gist.githubusercontent.com/CElyousfi/raw/2023-python-card.svg" alt="Python">
+      </a>
+      <p align="center">Python for Everybody Specialization from University of Michigan</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/graduation-cap_1f393.gif" width="50">
+      <h3 align="center">2022</h3>
+      <a href="#">
+        <img width="50%" src="https://gist.githubusercontent.com/CElyousfi/raw/2022-starting-card.svg" alt="EMSI">
+      </a>
+      <p align="center">Started Engineering Degree at EMSI, Casablanca</p>
+    </td>
+  </tr>
+</table>
+<!-- TIMELINE END -->
+
   </div>
 </details>
 
