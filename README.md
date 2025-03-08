@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20Casablanca%20to%20AI%20Excellence%20🧠&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20AI%20Enthusiast%20🧠&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
   Currently pursuing my Engineering degree at EMSI Casablanca, I'm focused on artificial intelligence, machine learning, and advanced software architectures while gaining hands-on experience through internships and personal projects.
 </p>
 <p align="center">
-  My current internship at ANP involves cutting-edge work with AI agents and autonomous systems - an exciting domain where I'm helping to push boundaries and explore new possibilities.
+  My current internship at ANP involves cutting-edge work with AI agents and autonomous systems - an exciting domain where I'm helping to push boundaries and explore new possibilities in Casablanca, Morocco.
 </p>
 
 <!-- TECH STACK SECTION -->
@@ -62,42 +62,42 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%">
+      <h3 align="center">SummaRise 🦊</h3>
+      <p align="center">
+        <a href="https://github.com/CElyousfi/SummaRise" target="_blank">
+          <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5fc779e53a352b9a8bdfe4270e.gif" width="100%" alt="SummaRise"/>
+        </a>
+      </p>
+      <p align="center"><strong>NLP, JavaScript, Machine Learning</strong> - A gamified browser extension with Finn the fox that analyzes and simplifies complex Terms of Service & Privacy Policies.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Medical Decision Support 🏥</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://cdn.dribbble.com/users/1681442/screenshots/4735886/media/29246aa34fdeef51c8dc6eaeb7a69b2d.gif" width="100%" alt="Medical App"/>
+        </a>
+      </p>
+      <p align="center"><strong>Flutter, CNN, OCR, Hybrid ML Models</strong> - A cutting-edge mobile application integrated with advanced AI services to enhance medical diagnosis.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Document Analysis System 📝</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://cdn.dribbble.com/users/2514208/screenshots/9802960/media/153b271d393ac0ac47ea1dd90a06f6d5.gif" width="100%" alt="Document Analysis"/>
+        </a>
+      </p>
+      <p align="center"><strong>OCR, FAISS, Python</strong> - Intelligent system that extracts, analyzes, and organizes medical document data through AI-driven document understanding.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">AI Financial Advisor 💰</h3>
       <p align="center">
         <a href="#" target="_blank">
           <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/2860978e513e84b13ad26e05146635fe.gif" width="100%" alt="Financial Advisor"/>
         </a>
       </p>
-      <p align="center"><strong>NLP, Python, Data Analysis</strong> - An intelligent financial assistant that analyzes spending habits and provides personalized recommendations using advanced NLP techniques.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">CV Analysis with AI 📄</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/2514208/screenshots/9802960/media/153b271d393ac0ac47ea1dd90a06f6d5.gif" width="100%" alt="CV Analysis"/>
-        </a>
-      </p>
-      <p align="center"><strong>LLMs, Vector Search, RAG</strong> - A sophisticated CV data extraction system using natural language processing and vector search technology for intelligent resume parsing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Churn Prediction Model 📊</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5fc779e53a352b9a8bdfe4270e.gif" width="100%" alt="Churn Prediction"/>
-        </a>
-      </p>
-      <p align="center"><strong>Machine Learning, Python, Statistics</strong> - A machine learning model that predicts customer churn, helping businesses optimize retention strategies through data-driven insights.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI Agents System 🤖</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.dribbble.com/users/1681442/screenshots/4735886/media/29246aa34fdeef51c8dc6eaeb7a69b2d.gif" width="100%" alt="AI Agents"/>
-        </a>
-      </p>
-      <p align="center"><strong>LangChain, CrewAI, Python</strong> - An innovative AI agent system that leverages multi-agent architecture for autonomous task execution and complex problem-solving (In development at ANP).</p>
+      <p align="center"><strong>NLP, Python, Data Analysis</strong> - Intelligent financial assistant leveraging NLP to analyze spending patterns and provide personalized recommendations.</p>
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@
     <tr>
       <td align="right" width="40%" style="padding: 10px;"><strong>Most Productive Time:</strong></td>
       <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
-        <span style="color: #8A2BE2;">Early Bird 🐦</span> - 6AM to 11AM
+        <span style="color: #8A2BE2;">Night Owl 🦉</span> - 9PM to 2AM
       </td>
     </tr>
     <tr>
