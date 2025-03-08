@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20AI%20Enthusiast&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20Casa%20to%20the%20World%20🗽&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://charafelyousfi-portfolio.vercel.app/">
+  <a href="https://charafportfolio-charafs-projects-3e6e28fc.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=8A2BE2" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/charaf-el-yousfi/">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer+in+the+Making;LLM+and+ML+Enthusiast;Agent+Systems+Architect;Data-Driven+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=Self-challenging+AI+Engineer;Data+Science+Enthusiast;Machine+Learning+Researcher;Always+questioning+assumptions" />
 </div>
 
 <br>
@@ -27,13 +27,13 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  I am a software engineering student passionate about AI, data science, and innovative solutions. My approach combines analytical thinking with creative problem-solving to develop intelligent systems that make a real impact.
+  I am a relentless perfectionist who thrives at the intersection of AI, data science, and mathematical rigor. My approach is defined by critical thinking and self-questioning — constantly challenging my own assumptions to achieve true innovation.
 </p>
 <p align="center">
-  Currently pursuing my Engineering degree at EMSI Casablanca, I'm focused on artificial intelligence, machine learning, and advanced software architectures while gaining hands-on experience through internships and personal projects.
+  As an Engineering Student at EMSI Casablanca, I've cultivated expertise in machine learning, deep learning, and data analytics while developing practical solutions that push technological boundaries.
 </p>
 <p align="center">
-  My current internship at ANP involves cutting-edge work with AI agents and autonomous systems - an exciting domain where I'm helping to push boundaries and explore new possibilities in Casablanca, Morocco.
+  My passion lies in creating AI systems that make complex information accessible and solve real-world problems with mathematical precision.
 </p>
 
 <!-- TECH STACK SECTION -->
@@ -41,19 +41,19 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-121212?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-0E83CD?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 <!-- FLAGSHIP PROJECTS SECTION -->
@@ -109,25 +109,25 @@
   <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
-        <h3 style="color: #8A2BE2;">AI & ML Focus</h3>
-        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">65%</div>
-        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Python | LangChain | RAG | ML Models</p>
+        <h3 style="color: #8A2BE2;">AI Workload</h3>
+        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">70%</div>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Python | TensorFlow | PyTorch</p>
         <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
-          <div style="height: 100%; width: 65%; background-color: #8A2BE2; border-radius: 5px;"></div>
+          <div style="height: 100%; width: 70%; background-color: #8A2BE2; border-radius: 5px;"></div>
         </div>
       </td>
       <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #0077B5;">
-        <h3 style="color: #0077B5;">Software Engineering</h3>
-        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">25%</div>
-        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">C# | Microservices | SQL | Agile</p>
+        <h3 style="color: #0077B5;">Web Development</h3>
+        <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">20%</div>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">JavaScript | React | Flask</p>
         <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
-          <div style="height: 100%; width: 25%; background-color: #0077B5; border-radius: 5px;"></div>
+          <div style="height: 100%; width: 20%; background-color: #0077B5; border-radius: 5px;"></div>
         </div>
       </td>
       <td width="33%" align="center" bgcolor="#111111" style="border-radius: 15px; padding: 20px; border-left: 4px solid #8A2BE2;">
-        <h3 style="color: #8A2BE2;">DevOps & Infrastructure</h3>
+        <h3 style="color: #8A2BE2;">DevOps & Others</h3>
         <div style="font-size: 42px; margin: 10px 0; font-weight: bold;">10%</div>
-        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Docker | Git | CI/CD</p>
+        <p style="font-size: 14px; margin: 5px 0; color: #aaa;">Docker | SQL | C#</p>
         <div style="height: 10px; background-color: #333; border-radius: 5px; margin: 15px 0;">
           <div style="height: 100%; width: 10%; background-color: #8A2BE2; border-radius: 5px;"></div>
         </div>
@@ -155,13 +155,13 @@
     <tr>
       <td align="right" width="40%" style="padding: 10px;"><strong>Code Quality Focus:</strong></td>
       <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
-        <span style="color: #8A2BE2;">AI Integration</span> & Clean Architecture
+        <span style="color: #8A2BE2;">Performance Optimization</span> & Clean Architecture
       </td>
     </tr>
     <tr>
       <td align="right" width="40%" style="padding: 10px;"><strong>Learning Right Now:</strong></td>
       <td align="left" width="60%" bgcolor="#111111" style="border-radius: 10px; padding: 10px;">
-        <span style="color: #0077B5;">Multi-Agent Systems</span> & Advanced RAG Architectures
+        <span style="color: #0077B5;">Large Language Models</span> & Neural Radiance Fields
       </td>
     </tr>
   </table>
@@ -184,7 +184,7 @@
   <tr>
     <td width="50%" bgcolor="#111111" style="border-radius: 15px; border-left: 4px solid #8A2BE2; padding: 15px;">
       <h3 style="color: #8A2BE2;">2024 💻</h3>
-      <p>Internship at Ministry of Interior - Personnel Management App</p>
+      <p>Internship at Ministry of Interior - Application Development</p>
     </td>
     <td width="50%" bgcolor="#111111" style="border-radius: 15px; border-left: 4px solid #0077B5; padding: 15px;">
       <h3 style="color: #0077B5;">2024 📊</h3>
@@ -216,19 +216,19 @@
   <table border="0" cellspacing="10" cellpadding="10">
     <tr>
       <td align="center" bgcolor="#111111" style="border-radius: 10px; padding: 15px;">
-        <h3 style="color: #8A2BE2;">+15</h3>
+        <h3 style="color: #8A2BE2;">+210</h3>
         <p>Total Projects</p>
       </td>
       <td align="center" bgcolor="#111111" style="border-radius: 10px; padding: 15px;">
-        <h3 style="color: #8A2BE2;">3</h3>
-        <p>Internships</p>
+        <h3 style="color: #8A2BE2;">+125</h3>
+        <p>Clients Worldwide</p>
       </td>
       <td align="center" bgcolor="#111111" style="border-radius: 10px; padding: 15px;">
-        <h3 style="color: #8A2BE2;">3</h3>
-        <p>Certifications</p>
+        <h3 style="color: #8A2BE2;">24</h3>
+        <p>Years Old</p>
       </td>
       <td align="center" bgcolor="#111111" style="border-radius: 10px; padding: 15px;">
-        <h3 style="color: #8A2BE2;">50K+</h3>
+        <h3 style="color: #8A2BE2;">500K+</h3>
         <p>Lines of Code</p>
       </td>
     </tr>
@@ -241,15 +241,15 @@
 <div align="center">
   <table border="0" cellspacing="5" cellpadding="5" bgcolor="#111111" style="border-radius: 10px; width: 80%; margin: 0 auto;">
     <tr>
-      <td style="padding: 10px;">• AI Agent Systems & Orchestration</td>
-      <td style="padding: 10px;">• Retrieval Augmented Generation (RAG)</td>
+      <td style="padding: 10px;">• Advanced Deep Learning Architectures</td>
+      <td style="padding: 10px;">• Generative AI & Large Language Models</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">• LLM Fine-tuning & Optimization</td>
-      <td style="padding: 10px;">• Microservices Architecture</td>
+      <td style="padding: 10px;">• Computer Vision in Medical Applications</td>
+      <td style="padding: 10px;">• MLOps & Production ML Systems</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">• Advanced Docker & Containerization</td>
+      <td style="padding: 10px;">• Reinforcement Learning</td>
       <td style="padding: 10px;">• AI Ethics & Responsible AI</td>
     </tr>
   </table>
