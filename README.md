@@ -1,11 +1,12 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Charaf%20El%20Yousfi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Self-challenging%20AI%20Engineer%20from%20Casa%20to%20the%20World%20🗽&descAlignY=51&descAlign=62&fontColor=ffffff" width="100%"/>
+  <h1>Charaf El Yousfi</h1>
+  <p>Self-challenging AI Engineer from Casa to the World 🗽</p>
 </div>
 
 <!-- ANIMATED GIF SECTION -->
 <div align="center">
-  <img src="https://i.imgur.com/kJx43Ei.gif" width="500px" alt="8-bit Developer Vibing"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWMzZWd0eWwza2VzNnJ1dmxwN3BsYXJycGtyYTc4azl1c2wzdmlhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="500px" alt="8-bit Developer Vibing"/>
 </div>
 
 <!-- SOCIAL BADGES -->
@@ -273,12 +274,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=CElyousfi&style=for-the-badge&color=000000" alt="Profile Views" />
 </div>
-
-<!-- Visitor counter -->
-<img src="https://hit.yhype.me/github/profile?user_id=CElyousfi" width="0" height="0">
