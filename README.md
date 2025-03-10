@@ -5,7 +5,7 @@
 
 <!-- ANIMATED GIF SECTION -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc0cWRzNmYzZW13ZTkxczhyN2xjYnRnMWJmaWFoaW1seGNtendjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="500px" alt="AI Engineer at Work"/>
+  <img src="https://i.imgur.com/kJx43Ei.gif" width="500px" alt="8-bit Developer Vibing"/>
 </div>
 
 <!-- SOCIAL BADGES -->
